@@ -21,3 +21,5 @@ title = 'Résumé'
 
 - Developed and maintained software for a variety of clients
 - Collaborated with a team of developers to design and implement new features
+
+[Back to the homepage](/)

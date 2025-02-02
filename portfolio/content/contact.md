@@ -4,6 +4,6 @@ draft = false
 title = 'Contact'
 +++
 
-### Contact Me
-
 You can contact me via email at [ahmed.o.muharram@gmail.com](mailto:ahmed.o.muharram@gmail.com).
+
+[Back to the homepage](/)

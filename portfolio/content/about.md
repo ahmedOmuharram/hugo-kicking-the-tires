@@ -19,3 +19,5 @@ I've done a lot of things.
 ### What I'm Doing
 
 I'm doing this and that.
+
+[Back to the homepage](/)

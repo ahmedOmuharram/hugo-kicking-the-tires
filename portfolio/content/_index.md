@@ -1,4 +1,6 @@
-Hi, I'm Ahmed! I'm a passionate software developer dedicated to creating impactful solutions through code.
+# Hi, I'm Ahmed
+
+I'm a passionate software developer dedicated to creating impactful solutions through code.
 
 ## What You'll Find Here
 
